@@ -1,11 +1,10 @@
+import * as serviceWorker from "./serviceWorker"
 import React from "react"
 import ReactDOM from "react-dom"
-
-import * as serviceWorker from "./serviceWorker"
-import App from "./App"
+import TodoApp from "TodoApp"
 
 ReactDOM.render(
-	<App />,
+	<TodoApp />,
 	document.getElementById("root"),
 )
 
