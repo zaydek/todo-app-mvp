@@ -4,8 +4,8 @@
 
 I typically use `uuid/v4` to generate UUIDs and `use-immer` to implement the reducer pattern using a mutative API.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). ⚛️
 
 ---
 
-Follow me on Twitter  [@username_ZAYDEK](https://twitter.com/username_ZAYDEK)! 🖖
+Follow me on Twitter [@username_ZAYDEK](https://twitter.com/username_ZAYDEK)! 🖖
