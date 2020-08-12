@@ -4,7 +4,7 @@
 
 I typically use `uuid/v4` to generate UUIDS (universally unique identifier) on the fly and `use-immer` to author reducers using a mutative API (as opposed to a functional API).
 
-*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ---
 
