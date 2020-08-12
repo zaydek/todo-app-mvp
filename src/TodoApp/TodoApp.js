@@ -103,7 +103,7 @@ const MemoTodoItem = React.memo(({ todo, dispatch }) => (
 ))
 
 const TodoApp = () => {
-	const [state, dispatch] = useImmerReducer(TodoAppReducer, {}, () => initialState)
+	const [state, dispatch] = useImmerReducer(TodoAppReducer, initialState)
 
 	return (
 		<div>
@@ -141,7 +141,11 @@ const TodoApp = () => {
 
 			{/* Todos */}
 			{state.todos.map(each => (
-				<MemoTodoItem key={each.id} todo={each} dispatch={dispatch} />
+				<MemoTodoItem
+					key={each.id}
+					todo={each}
+					dispatch={dispatch}
+				/>
 			))}
 
 			{/* DEBUG */}
