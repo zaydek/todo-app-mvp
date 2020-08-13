@@ -1,4 +1,4 @@
-# Todo App MVP (React / Immer)
+# Todo App MVP (React / useImmerReducer)
 
 [160 LOC](https://github.com/codex-zaydek/todo-app-mvp/blob/master/src/TodoApp/TodoApp.js) to demonstrate how I would author a MVP todo app in React. Note that this app has _no_ styling and is purely functional.
 
