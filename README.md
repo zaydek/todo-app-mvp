@@ -6,6 +6,10 @@ I typically use `uuid/v4` to generate UUIDs and `use-immer` to implement the red
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). ⚛️
 
+## License
+
+Open source software licensed as MIT.
+
 ---
 
 Follow me on Twitter [@username_ZAYDEK](https://twitter.com/username_ZAYDEK)! 🖖
